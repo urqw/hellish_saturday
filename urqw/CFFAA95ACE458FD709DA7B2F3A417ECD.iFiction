@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>CFFAA95ACE458FD709DA7B2F3A417ECD</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Адская суббота</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<headline>Квест-некролог</headline>
+			<firstpublished>2005-12-10</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Адский город. Адская неделя. Адская работа. Вы просто адски устали. Вы работали в адском видеопрокате. О эти адские фильмы, каждый адский день.<br/>Квест содержит совершенно адские сцены адского секса и сладкого насилия и в силу своего адского содержания вообще не предназначен для игры.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hellish_saturday</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
